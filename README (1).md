@@ -1,7 +1,7 @@
 
 # Music Genre Predictor
 
-This is a code to predict a the type of Music Genre a person is interested considering the inputs such as 'age' and 'gender'.
+This is a code to predict the type of Music Genre a person is interested considering the inputs such as 'age' and 'gender'.
 
 
 ## Overview : 
