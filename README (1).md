@@ -15,10 +15,10 @@ This is a code to predict the type of Music Genre a person is interested conside
 
 Import the required libraries such as 'pandas' and 'sklearn'. Initially the data is loaded from csv file and split into x(inputs from the user) and y(result to be predicted).
 
-Next, the train_test_split function from scikit-learn's model_selection module is used to split the x and y variables into training and testing sets. The test set will be 20% of the data and the rest will be the training set.
+Next, the 'train_test_split function' from 'scikit-learn's model_selection' module is used to split the 'x' and 'y' variables into training and testing sets. The test set will be 20% of the data and the rest will be the training set.
 
 Then the accuracy of the model is tested as in to find it desirable for the most relevant predictions,if not the machine has to be trained for more data. The usual accuracy to be expected is more than 70% in most of the cases.
-
+'
 ![Screenshot from 2022-12-30 14-14-39](https://user-images.githubusercontent.com/116273227/210052033-33fc6945-3b1d-402f-93c0-a9d1ae344a49.png)
 
 ```bash
